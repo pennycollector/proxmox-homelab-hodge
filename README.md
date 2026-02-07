@@ -9,16 +9,20 @@
 
 <h2> Hardware </h2>
 <ul>
- <li>
   <b> Dell Optiplex 7060 Micro </b>
+ <li>
     i5-8500 | 16GB DDR4 | 512GB
  </li>
- <li>
+ 
   <b> Cisco Catalyst 3560CX-8PC-S </b>
+  
+ <li>
     8-Port Gigabit | POE | Layer 3 Switch
  </li>
+
+<b> Cisco AIR-AP2802I-B-K9 </b>
+ 
  <li>
-  <b> Cisco AIR-AP2802I-B-K9 </b>
     802.11ac | Enterprise Access Point
  </li>
 </ul>
