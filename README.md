@@ -15,13 +15,11 @@
  </li>
  
   <b> Cisco Catalyst 3560CX-8PC-S </b>
-  
  <li>
     8-Port Gigabit | POE | Layer 3 Switch
  </li>
 
-<b> Cisco AIR-AP2802I-B-K9 </b>
- 
+  <b> Cisco AIR-AP2802I-B-K9 </b>
  <li>
     802.11ac | Enterprise Access Point
  </li>
